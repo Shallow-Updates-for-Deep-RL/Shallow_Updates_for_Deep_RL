@@ -2,7 +2,7 @@
 
 Official implementation for the paper: "Shallow Updates for Deep Reinforcement Learning"
 
-![ScreenShot](alg_diag.pdf)
+![ScreenShot](alg_diag.png)
 
 This code extends the official DQN implementation [[link](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)].
 
